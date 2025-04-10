@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Controlador_Capacitacion.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Controlador_Capacitacion.pdb
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.pdb

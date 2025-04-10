@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\bin\Debug\Capa_Modelo_RRHH.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\bin\Debug\Capa_Modelo_RRHH.pdb
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.pdb
