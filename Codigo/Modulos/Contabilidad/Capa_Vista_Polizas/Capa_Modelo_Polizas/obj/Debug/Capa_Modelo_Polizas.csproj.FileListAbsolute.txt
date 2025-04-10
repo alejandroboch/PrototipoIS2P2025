@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\bin\Debug\Capa_Modelo_Polizas.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\bin\Debug\Capa_Modelo_Polizas.pdb
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\obj\Debug\Capa_Modelo_Polizas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\obj\Debug\Capa_Modelo_Polizas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\obj\Debug\Capa_Modelo_Polizas.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\obj\Debug\Capa_Modelo_Polizas.pdb

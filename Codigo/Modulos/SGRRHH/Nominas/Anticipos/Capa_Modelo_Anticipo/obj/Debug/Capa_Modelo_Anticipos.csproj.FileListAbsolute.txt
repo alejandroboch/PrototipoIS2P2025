@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.pdb
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.pdb

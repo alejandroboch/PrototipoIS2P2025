@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\PrototipoIS2P2025\Codigo\Modulos\ExamenParcialDos\Capa_Modelo_Parcialdos\bin\Debug\Capa_Modelo_Parcialdos.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\PrototipoIS2P2025\Codigo\Modulos\ExamenParcialDos\Capa_Modelo_Parcialdos\bin\Debug\Capa_Modelo_Parcialdos.pdb
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\PrototipoIS2P2025\Codigo\Modulos\ExamenParcialDos\Capa_Modelo_Parcialdos\obj\Debug\Capa_Modelo_Parcialdos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\PrototipoIS2P2025\Codigo\Modulos\ExamenParcialDos\Capa_Modelo_Parcialdos\obj\Debug\Capa_Modelo_Parcialdos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\PrototipoIS2P2025\Codigo\Modulos\ExamenParcialDos\Capa_Modelo_Parcialdos\obj\Debug\Capa_Modelo_Parcialdos.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\PrototipoIS2P2025\Codigo\Modulos\ExamenParcialDos\Capa_Modelo_Parcialdos\obj\Debug\Capa_Modelo_Parcialdos.pdb

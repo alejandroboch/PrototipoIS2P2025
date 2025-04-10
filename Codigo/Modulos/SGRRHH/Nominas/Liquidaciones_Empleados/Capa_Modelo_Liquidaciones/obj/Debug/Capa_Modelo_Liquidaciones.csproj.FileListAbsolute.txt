@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\bin\Debug\Capa_Modelo_Liquidaciones.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\bin\Debug\Capa_Modelo_Liquidaciones.pdb
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.dll
+C:\Users\User\OneDrive - Universidad Mariano Gálvez\Escritorio\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.pdb
